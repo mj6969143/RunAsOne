@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.mainBar {
+    width: 40%;
+    height: 300px;
+    margin: auto;
+    margin-top: 200px;
+    padding-top: 50px;
+    background-color: #383838;
+}
+
+.form {
+    width: 60%;
+    height: 200px;
+    margin: auto;
+    /* margin-top: 50px; */
+    background-color: #ffffff;
+}
+
+.item {
+    height: 40px;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+
+.itemName {
+
+}
+
+.itemInput {
+    height: 25px;
+    width: 60%;
+    margin-left: 10px;
+    font-size: 16px;
+    padding-left: 6px;
+}
+
+.hr {
+    border: none;
+    background-color: #eceef1;
+    height: 2px;
+}
+
+.loginBtn {
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    background-color: #33b17b;
+    border-radius: 6px;
+}
+
