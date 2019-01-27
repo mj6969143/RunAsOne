@@ -4,20 +4,19 @@
 }
 
 .mainBar {
-    width: 40%;
-    height: 300px;
+    width: 26%;
+    height: 320px;
     margin: auto;
     margin-top: 200px;
     padding-top: 50px;
-    background-color: #383838;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #BDBDBD;
 }
 
 .form {
-    width: 60%;
-    height: 200px;
-    margin: auto;
-    /* margin-top: 50px; */
-    background-color: #ffffff;
+    width: 100%;
+    height: 180px;
 }
 
 .item {
@@ -27,20 +26,23 @@
 }
 
 .itemName {
-
+    color: #ffffff;
+    font-size: 20px;
 }
 
 .itemInput {
-    height: 25px;
+    height: 30px;
     width: 60%;
     margin-left: 10px;
     font-size: 16px;
     padding-left: 6px;
+    background: none;
+    border: 1px solid #ffffff;
 }
 
 .hr {
     border: none;
-    background-color: #eceef1;
+    background-color: #757575;
     height: 2px;
 }
 
@@ -48,7 +50,39 @@
     width: 100%;
     height: 40px;
     margin-top: 20px;
-    background-color: #33b17b;
+    background-color: #03A9F4;
     border-radius: 6px;
+    color: #ffffff;
+    font-size: 18px;
 }
 
+.option {
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.option2 {
+    float: right;
+}
+
+.exLogin {
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.exLoginTitle {
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+}
+
+.icon2 {
+    float: right;
+}
