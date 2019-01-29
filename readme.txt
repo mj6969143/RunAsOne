@@ -1,3 +1,4 @@
 服务外包冲冲冲！
-front  为前端代码
-server 为后端代码
+使用spring boot框架
+前端页面在templates下
+后端实现在controller下
